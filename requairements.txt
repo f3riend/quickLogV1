@@ -1,0 +1,8 @@
+pip install selenium
+pip install webdriver_manager
+pip install Flask
+pip install flask-socketio
+pip install python-engineio
+pip install icecream
+pip install pyautogui
+pip install pywebview
