@@ -1,5 +1,10 @@
 # Quick Log
 
+**My Reason for Improvement**
+I lose a lot of time trying to log in to my accounts on new computers, for example once I went to an internet cafe to play a game with my friends and I lost half an hour to an hour just because I couldn't remember my password.
+
+I developed it for myself but you can download and use it too
+
 
 You can quickly log in to your Google accounts, in this project you can quickly log in to these accounts:
   - Gmail
