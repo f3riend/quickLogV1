@@ -5,6 +5,8 @@ I lose a lot of time trying to log in to my accounts on new computers, for examp
 
 I developed it for myself but you can download and use it too
 
+<iframe width="1307" height="735" src="https://www.youtube.com/embed/V7D6xDFFaNk" title="quickLogV1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 You can quickly log in to your Google accounts, in this project you can quickly log in to these accounts:
   - Gmail
