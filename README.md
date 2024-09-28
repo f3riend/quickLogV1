@@ -5,7 +5,9 @@ I lose a lot of time trying to log in to my accounts on new computers, for examp
 
 I developed it for myself but you can download and use it too
 
-![quickLogV1](https://youtu.be/V7D6xDFFaNk)
+
+[![Quick Log Video](https://img.youtube.com/vi/V7D6xDFFaNk/0.jpg)](https://youtu.be/V7D6xDFFaNk)
+
 
 
 You can quickly log in to your Google accounts, in this project you can quickly log in to these accounts:
