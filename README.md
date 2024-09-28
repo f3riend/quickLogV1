@@ -6,7 +6,6 @@ I lose a lot of time trying to log in to my accounts on new computers, for examp
 I developed it for myself but you can download and use it too
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 
