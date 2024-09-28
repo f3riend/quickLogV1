@@ -29,3 +29,4 @@ pip install eventlet
 **Important**
 - Google Chrome must be installed
 - passwords.json file needs to be edited, you must enter your account information
+- sometimes xpaths change in discord, so you may need to make adjustments if it is not working
