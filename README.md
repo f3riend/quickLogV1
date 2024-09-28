@@ -23,6 +23,7 @@ pip install python-engineio
 pip install icecream
 pip install pyautogui
 pip install pywebview
+pip install eventlet
 ```
 
 **Important**
