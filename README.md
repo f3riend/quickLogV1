@@ -17,6 +17,7 @@ You can quickly log in to your Google accounts, in this project you can quickly 
   - Steam
 
 **The following libraries must be installed:**
+
 ```bash
 pip install selenium
 pip install webdriver_manager
@@ -28,6 +29,11 @@ pip install pyautogui
 pip install pywebview
 pip install eventlet
 ```
+
+```bash
+pip install -r requairements.txt
+```
+
 
 **Important**
 - Google Chrome must be installed
